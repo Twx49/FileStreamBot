@@ -22,7 +22,7 @@
           "value": "True"
       },
       "APP_NAME": {
-          "description": "Copy-Paste the app name that you just typed above."
+          "description": "Copy-Paste the app name that you just typed abbbove."
       },
       "API_ID": {
           "description": "Get this value from https://my.telegram.org"
